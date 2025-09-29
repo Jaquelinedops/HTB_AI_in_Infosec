@@ -1,1 +1,1 @@
-# HTB_AI_in_Infosec
+# AI_in_Infosec
